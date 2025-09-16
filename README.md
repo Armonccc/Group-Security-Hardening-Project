@@ -17,7 +17,7 @@ Worked in a team of three to implement and demonstrate fundamental system securi
 
 This project provided hands-on experience in system hardening, proactive monitoring, and practical network security defence strategies.
 
-Software/Hardware: Linux, VirtualBox and Ubuntu
+**Software/Hardware:** Linux, VirtualBox and Ubuntu
 
 **Note:** All important or sensitive information has been either censored (using a blue rectangle) or replaced. 
 
